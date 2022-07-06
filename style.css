@@ -186,3 +186,18 @@ p {
 .update {
     padding-top: 100px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: auto;
+    margin-top: 10%;
+}
+
+.humble {
+    color: rgb(161, 35, 35);
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
