@@ -73,3 +73,57 @@ h6 {
     border: none;
     background-color: rgb(177, 160, 160);
 }
+
+
+
+
+
+.icon {
+    width: 50px;
+    padding-top: 50px;
+    padding-right: 200px;
+
+}
+
+.line {
+    display: flex;
+
+
+
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: rgb(100, 89, 89);
+}
+
+.flood {
+    border: 1px solid white;
+    height: 400px;
+    width: 300px;
+
+
+    margin-bottom: 2%;
+
+
+}
+
+.red {
+    background-color: rgb(225, 255, 255);
+    margin-left: 15%;
+}
+
+.blue {
+    background-color: rgb(245, 230, 233);
+    margin-left: 2%;
+}
+
+.green {
+    background-color: rgb(211, 218, 231);
+    margin-left: 2%;
+
+
+}
