@@ -21,6 +21,8 @@ h6 {
     font-size: 15px;
 }
 
-.donation {
+.link-button {
     color: white;
+    text-decoration: none;
+    background-image: linear-gradient(red, maroon);
 }
