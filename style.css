@@ -9,7 +9,7 @@ body {
 .help {
     background-image: url(donate.jpg);
     background-position: center;
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
     color: white;
     text-align: center;
@@ -34,7 +34,7 @@ h6 {
 }
 
 .donation {
-    padding-top: 156px;
+    padding-top: 140px;
     text-align: center;
     font-size: 30px;
 }
@@ -68,7 +68,7 @@ h6 {
 
 
 .horizontal-line {
-    width: 690px;
+    width: 700px;
     height: 2px;
     border: none;
     background-color: rgb(177, 160, 160);
